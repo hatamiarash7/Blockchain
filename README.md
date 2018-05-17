@@ -1,4 +1,4 @@
-# A Simple Blockchain
+# My Personal Blockchain
 
 [![Build Status](https://travis-ci.org/hatamiarash7/Blockchain.svg?branch=master)](https://travis-ci.org/hatamiarash7/Blockchain) 
 
