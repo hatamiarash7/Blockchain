@@ -3,7 +3,7 @@ astroid==2.0.4
 cffi==1.11.5
 click==6.7
 colorama==0.4.5
-coverage==4.4.1
+coverage==4.5.4
 cryptography==3.3.2
 Django==2.2.18
 django-filter==2.0.0
