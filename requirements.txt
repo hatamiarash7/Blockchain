@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 astroid==2.11.6
 cffi==1.15.0
 click==6.7
-colorama==0.4.5
+colorama==0.4.6
 coverage==4.5.4
 cryptography==3.3.2
 Django==2.2.28
