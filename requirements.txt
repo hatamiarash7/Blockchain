@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 astroid==2.11.6
-cffi==1.15.0
+cffi==1.17.1
 click==6.7
 colorama==0.4.5
 coverage==4.5.4
