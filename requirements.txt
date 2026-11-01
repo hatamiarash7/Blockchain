@@ -27,7 +27,7 @@ pycparser==2.18
 pyflakes==1.5.0
 Pygments==2.12.0
 PyJWT==2.4.0
-pylint==2.1.1
+pylint==4.0.9
 pytest==3.0.6
 python-dotenv==0.9.1
 pytz==2018.5
